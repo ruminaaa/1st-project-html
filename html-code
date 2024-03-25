@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Tunisian Foods</title>
+</head>
+
+<body>
+
+  <h1>Tunisian Food: 5 Traditional Dishes to Look For in Tunis</h1>
+  <p>Tunisia is a country located in North Africa on the Mediterranean coast.</p>
+  <p> With a rich history, diverse landscapes, and a blend of cultural influences, Tunisia has become a unique and fascinating destination.</p>
+
+
+
+  <img src="flag.png" width=500 alt="flag of Tunisia">
+  <a href="https://en.wikipedia.org/wiki/Tunisia" target="_blank"><br>Learn more about Tunisia</a>
+  <p>These are top 5 Tunisian food &#128522;!</p>
+  <ol>
+    <li><a href="#couscous">Couscous with fish</a></li>
+    <li><a href="#lablebi">Lablebi</a></li>
+    <li><a href="#tajine">Tajine</a></li>
+    <li><a href="#slata">Slata mchwiya</a></li>
+    <li><a href="#fricassee">Fricassé</a></li>
+  </ol>
+
+  <div id="couscous">
+    <h2>1. couscous with fish</h2>
+    <img src="couscous.jpg" width="500" alt="dish1:couscous">
+  </div>
+  <div id="lablebi">
+    <h2>2. lablebi</h2>
+    <img src="labelebi.jpg" width="500" alt="dish2:lablebi">
+  </div>
+  <div id="tajine">
+    <h2>3. Tajine</h2>
+    <img src="Tajine.jpg" width="500" alt="dish3:tajine">
+  </div>
+  <div id="slata">
+    <h2>4. Slata mchwiya</h2>
+    <img src="slata.png" width="500" alt="dish4:slata">
+  </div>
+  <div id="fricassee">
+    <h2>5. Fricassé</h2>
+    <img src="fricassé.jpg" width="500" alt="dish5:fricassé">
+  </div>
+
+  <footer>
+    <p>&#169; Copyright Dhieb</p>
+  </footer>
+</body>
+
+</html>
